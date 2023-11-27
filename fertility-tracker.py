@@ -45,7 +45,7 @@ while True:
     elif choice == "3":
         save_symptoms()
     elif choice == "4":
-        print("Exiting the program. Goodbye!")
+        print("Exiting the tracker. Goodbye!")
         break
     else:
         print("Invalid choice. Please choose a valid option.")
